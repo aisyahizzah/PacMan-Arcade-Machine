@@ -19,6 +19,7 @@ Pada repositori ini telah disediakan asset yang <b>wajib</b> digunakan untuk pro
 Terakhir ubah isi file readme ini menjadi:
 - Nama
 - NIM
+- Nomor urutan lab IRK sebagai pilihan
 - Panduan memainkan permainan
 - Alasan pemilihan algoritma (Djikstra / BFS)
 
@@ -37,3 +38,5 @@ Terakhir ubah isi file readme ini menjadi:
 Komponen 1 sampai 4 bernilai 1600 dan komponen 5 bernilai 900 (setiap bonus bernilai 300).
 
 ## Referensi
+1.  https://learn.jquery.com/
+2.  Stack Overflow
