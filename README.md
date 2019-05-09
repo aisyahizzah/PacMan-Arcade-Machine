@@ -32,7 +32,7 @@ Terakhir ubah isi file readme ini menjadi:
 1.  Kebenaran fungsionalitas permainan dan kesesuaian spek
 2.  Langkah algoritma pergerakan bot hantu
 3.  Readme
-4.  Kreativitas dan keindahan interface
+4.  Kreativitas, kerapihan kode, dan keindahan interface
 5.  Bonus 1, 2, dan 3
 
 Komponen 1 sampai 4 bernilai 1600 dan komponen 5 bernilai 900 (setiap bonus bernilai 300).
